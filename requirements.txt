@@ -1,0 +1,5 @@
+duckduckgo-search
+openai
+python-dotenv
+bs4
+requests

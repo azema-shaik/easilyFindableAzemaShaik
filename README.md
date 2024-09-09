@@ -11,3 +11,5 @@ This project is my first successful agent, leveraging large language models (LLM
 
 - **LLM-Powered Search**: The agent uses LLMs to search the internet and extract relevant information, summarizing it into concise, actionable insights.
 - **Bookstore Query**: The agent can read from a fictional bookstore database and provide detailed information about books, including title, price, stock availability, and descriptions.
+
+  https://colab.research.google.com/drive/1oPdBfPzgjXvjpzQ4WmpZ5IpprBaBQwfI?usp=sharing
